@@ -1,6 +1,6 @@
 # Stockity corretora, Reclame Aqui, o que é, afiliado: A corretora digital que está mudando o jeito de operar no mercado financeiro!
 <!-- wp:paragraph -->
-<p>A Stockity é uma corretora moderna que combina tecnologia, simplicidade e oportunidades reais para quem quer investir em opções binárias de forma prática e segura. Com uma interface clara e ferramentas inteligentes, ela foi criada para atender tanto iniciantes quanto traders experientes que buscam resultados consistentes.</p>
+<p>A <strong><a href="https://corretora-stockity.com/">Stockity</a></strong> é uma corretora moderna que combina tecnologia, simplicidade e oportunidades reais para quem quer investir em opções binárias de forma prática e segura. Com uma interface clara e ferramentas inteligentes, ela foi criada para atender tanto iniciantes quanto traders experientes que buscam resultados consistentes.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -30,12 +30,12 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-![pic 2 2](https://github.com/user-attachments/assets/b7cd2c75-6175-432e-878f-4b58af82a74f)
+[![pic 2 2](https://github.com/user-attachments/assets/b7cd2c75-6175-432e-878f-4b58af82a74f)](https://corretora-stockity.com/)
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/4e268d70-02fe-4fc5-9096-2b826f0393b1" />
+[<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/4e268d70-02fe-4fc5-9096-2b826f0393b1" />](https://corretora-stockity.com/)
 
 <!-- /wp:paragraph -->
 
@@ -70,7 +70,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A Stockity acredita que todos devem ter a chance de aprender antes de investir.</p>
+<p>A <strong><a href="https://corretora-stockity.com/">Stockity</a></strong> acredita que todos devem ter a chance de aprender antes de investir.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -117,7 +117,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/f2be2f82-d038-4566-99ad-4de0d5908790" />
+[<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/f2be2f82-d038-4566-99ad-4de0d5908790" />](https://corretora-stockity.com/)
 
 <!-- /wp:paragraph -->
 
@@ -130,7 +130,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<img width="700" height="320" alt="pic 3 2" src="https://github.com/user-attachments/assets/74649031-11b3-439d-8564-fd9f8b2edc5c" />
+[<img width="700" height="320" alt="pic 3 2" src="https://github.com/user-attachments/assets/74649031-11b3-439d-8564-fd9f8b2edc5c" />](https://corretora-stockity.com/)
 
 <!-- /wp:paragraph -->
 
@@ -139,7 +139,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Muitos perguntam se Stockity é aposta — mas não, a plataforma não tem relação com jogos de azar.</p>
+<p>Muitos perguntam se <strong><a href="https://corretora-stockity.com/">Stockity</a></strong> é aposta — mas não, a plataforma não tem relação com jogos de azar.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -159,7 +159,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-![pic 4 2](https://github.com/user-attachments/assets/dc1e4a9c-bd27-431d-884f-0cb9e8d09122)
+[![pic 4 2](https://github.com/user-attachments/assets/dc1e4a9c-bd27-431d-884f-0cb9e8d09122)](https://corretora-stockity.com/)
 
 <!-- /wp:paragraph -->
 
@@ -194,6 +194,6 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/b8cd6989-64dd-4129-af44-5ca87b00fcbb" />
+[<img width="1030" height="72" alt="button" src="https://github.com/user-attachments/assets/b8cd6989-64dd-4129-af44-5ca87b00fcbb" />](https://corretora-stockity.com/)
 
 <!-- /wp:paragraph -->
